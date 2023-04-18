@@ -15,3 +15,21 @@ hexo博客的图床图片链接
     <img src="https://github.com/linxt20/blog_img/blob/master/how_to_use_icon/font_awesome_v4%E7%BD%91%E9%A1%B5.jpg?raw=true" title="font_awesome_v4" alt="font_awesome_v4">
     <img src="https://github.com/linxt20/blog_img/blob/master/how_to_use_icon/font_awesome_v5%E7%BD%91%E9%A1%B5.jpg?raw=true" title="font_awesome_v5" alt="font_awesome_v5">
 ```
+
+### cover
+```html
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover01.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover02.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover03.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover04.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover05.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover06.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover07.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover08.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover09.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover10.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover11.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover12.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover13.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover14.jpg?raw=true">
+```

@@ -32,4 +32,6 @@ hexo博客的图床图片链接
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover12.jpg?raw=true">
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover13.jpg?raw=true">
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover14.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover15.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover16.jpg?raw=true">
 ```

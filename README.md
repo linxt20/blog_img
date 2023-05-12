@@ -20,6 +20,8 @@ hexo博客的图床图片链接
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover14.jpg?raw=true">
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover15.jpg?raw=true">
     <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover16.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover17.jpg?raw=true">
+    <img src="https://github.com/linxt20/blog_img/blob/master/cover/cover18.jpg?raw=true">
 ```
 ### note_of_butter_in_hexo
 ```html

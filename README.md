@@ -44,3 +44,23 @@ hexo博客的图床图片链接
     <img src="https://github.com/linxt20/blog_img/blob/master/superset-debug-windows-pycharm/select-python.jpg?raw=true" title="选择python配置" alt="选择python配置">
 ```
 
+### vmware-network-connect
+```html
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/NATmodelconnect.jpg?raw=true" title="NAT模式联网流程" alt="NAT模式联网流程">
+    
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/NATconnectsuccess.jpg?raw=true" title="成功连接网络" alt="成功连接网络">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect1.jpg?raw=true" title="桥接模式连接流程1" alt="桥接模式连接流程1">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect2.jpg?raw=true" title="桥接模式连接流程2" alt="桥接模式连接流程2">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect3.jpg?raw=true" title="桥接模式连接流程3" alt="桥接模式连接流程3">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect4.jpg?raw=true" title="桥接模式连接流程4" alt="桥接模式连接流程4">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect5.jpg?raw=true" title="桥接模式连接流程5" alt="桥接模式连接流程5">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/bridgemodelconnect6.jpg?raw=true" title="桥接模式连接流程6" alt="桥接模式连接流程6">
+
+    <img src="https://github.com/linxt20/blog_img/blob/master/vmware-network-connect/closebridgemodel.jpg?raw=true" title="关闭桥接模式的设置" alt="关闭桥接模式的设置">
+```
